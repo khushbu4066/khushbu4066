@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cyber Security, Linux, Javascript.**
 
-- 📫 How to reach me **khushbudadhe01@gmail.com**
+//- 📫 How to reach me **khushbudadhe01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
