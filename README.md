@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khushbu </h1>
+<h1 align="center"> < Hello Coders🚀, I'm Khushbu <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://d2li9irucjetlp.cloudfront.net/media/20200720193821/woman-working-with-computer-bright-colorful-vector-illustration-400x328.jpg>
 
