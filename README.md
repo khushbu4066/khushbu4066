@@ -57,6 +57,6 @@
 
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbu4066&" alt="khushbu4066" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbu4066&" alt="khushbu4066" /></p>
 
 
