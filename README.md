@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **khushbudadhe01@gmail.com**
 
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -30,7 +30,7 @@
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
- <br>
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -38,7 +38,7 @@
 </p>
 
 
-
+<br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbu4066&show_icons=true&locale=en&layout=compact" alt="khushbu4066" /></p>
@@ -57,7 +57,7 @@
 
 
 
-
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbu4066&" alt="khushbu4066" /></p>
 
