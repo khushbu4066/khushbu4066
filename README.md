@@ -16,7 +16,8 @@
 - 💬 Ask me about **Java, Data Structure, Html, CSS, JS, ReactJS, NodeJS, Linux**
 
 - 📫 How to reach me **khushbudadhe01@gmail.com**
-  
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -29,6 +30,7 @@
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
+<hr> 
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -36,25 +38,25 @@
 </p>
 
 
-
+<hr>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbu4066&show_icons=true&locale=en&layout=compact" alt="khushbu4066" /></p>
 
 
-
+<hr>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbu4066&show_icons=true&locale=en" alt="khushbu4066" /></p>
 
 
-
+<hr>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushbu4066" alt="khushbu4066" /></a> </p>
 
 
-
+<hr>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbu4066&" alt="khushbu4066" /></p>
