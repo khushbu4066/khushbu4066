@@ -1,5 +1,5 @@
 <h1 align="center"> < Hello Coders🚀, I'm Khushbu <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
-<h3 align="center">An aspiring Web Developer, Pationate to learn new things✨</h3>
+<h3 align="center">An aspiring Web Developer, Pationate to learn new things</h3>
 <img align="right" alt="Coding" width="400" src=https://d2li9irucjetlp.cloudfront.net/media/20200720193821/woman-working-with-computer-bright-colorful-vector-illustration-400x328.jpg>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu4066&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu4066" /> </p>
