@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Java, Data Structure, Html, CSS, JS, ReactJS, NodeJS, Linux**
-
 - 📫 How to reach me **khushbudadhe01@gmail.com**
 
 
