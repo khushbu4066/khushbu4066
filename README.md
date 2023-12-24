@@ -2,7 +2,8 @@
   
 <h3 align="center">An aspiring Web Developer, Pationate to learn new things.</h3>
 
-<img align="right" alt="Coding" width="400" src=![image](https://github.com/khushbu4066/khushbu4066/assets/83541710/b837a209-c21d-4e52-8fa6-6c61e4f3ea5d)
+<img align="right" alt="Coding" width="400" src=![image](https://github.com/khushbu4066/khushbu4066/assets/83541710/fba4c864-50e7-4a9a-bcc2-8119fddd3044)
+
 >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu4066&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu4066" /> </p>
