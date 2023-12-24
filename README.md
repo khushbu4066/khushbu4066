@@ -2,7 +2,8 @@
   
 <h3 align="center">An aspiring Web Developer, Pationate to learn new things.</h3>
 
-<img align="right" alt="Coding" width="400" src=[https://d2li9irucjetlp.cloudfront.net/media/20200720193821/woman-working-with-computer-bright-colorful-vector-illustration-400x328.jpg](https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM0MDM4NDUsIm5iZiI6MTcwMzQwMzU0NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI0VDA3MzkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk1ZWQ0ZDJkYTY0YzA0MWM5NjY3NGU5ODQ4NDg2ZTQ4MDgyYTQyZjFmY2ZkYjRiOGQxNGEzNDZlZDQxMWEwMmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wL_FJXKKly7pFjApOTg7QGJqpXV1gdlvqxnkZ_w6Tpw)>
+<img align="right" alt="Coding" width="400" src=![image](https://github.com/khushbu4066/khushbu4066/assets/83541710/b837a209-c21d-4e52-8fa6-6c61e4f3ea5d)
+>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu4066&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu4066" /> </p>
 
