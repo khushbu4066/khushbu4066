@@ -2,6 +2,7 @@
   
 <h3 align="center">An aspiring Web Developer, Pationate to learn new things.</h3>
 
+<br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 
