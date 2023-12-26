@@ -4,6 +4,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu4066&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu4066" /> </p>
 
 
@@ -55,7 +57,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushbu4066" alt="khushbu4066" /></a> </p>
 
 
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbu4066&show_icons=true&locale=en&layout=compact" alt="khushbu4066" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbu4066&show_icons=true&locale=en" alt="khushbu4066" /></p>
