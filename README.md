@@ -41,16 +41,12 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbu4066&show_icons=true&locale=en&layout=compact" alt="khushbu4066" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbu4066&show_icons=true&locale=en" alt="khushbu4066" /></p>
 
-
 <br>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushbu4066" alt="khushbu4066" /></a> </p>
 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehashukla&" alt="mehashukla" /></p>
 <br>
-
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
