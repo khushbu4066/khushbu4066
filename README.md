@@ -47,11 +47,11 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbu4066&show_icons=true&locale=en&layout=compact" alt="khushbu4066" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbu4066&show_icons=true&locale=en" alt="khushbu4066" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=khushbu4066&show_icons=true&locale=en" alt="khushbu4066" /></p>
 
 <br>
 
-<p align="center">
+<p align="left">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
