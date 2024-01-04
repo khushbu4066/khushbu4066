@@ -1,8 +1,5 @@
 <h1 align="center"> < Hello Coders🚀, I'm Khushbu <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
 
 <h3 align="center">An aspiring Web Developer, Pationate to learn new things.</h3>
 
@@ -21,8 +18,10 @@
 
 - 📫 How to reach me **khushbudadhe01@gmail.com**
 
-<br>
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+  
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -34,8 +33,9 @@
 <a href="https://auth.geeksforgeeks.org/user/khushbudadhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khushbudadhe" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a></p>
 
-<br> 
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -53,7 +53,9 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>    
 </p>
 
-<br> 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushbu4066" alt="khushbu4066" /></a> </p>
 
@@ -62,7 +64,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushbu4066&show_icons=true&locale=en&layout=compact" alt="khushbu4066" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushbu4066&show_icons=true&locale=en" alt="khushbu4066" /></p>
 
-<br>
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <p align="left">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
