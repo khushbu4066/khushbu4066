@@ -3,7 +3,10 @@
 
 <h3 align="center">An aspiring Web Developer, Pationate to learn new things.</h3>
 
-<br>
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 
