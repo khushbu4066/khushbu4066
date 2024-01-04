@@ -1,5 +1,9 @@
 <h1 align="center"> < Hello Coders🚀, I'm Khushbu <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
-  
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 <h3 align="center">An aspiring Web Developer, Pationate to learn new things.</h3>
 
 <br>
