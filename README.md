@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/khushbu dadhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushbu dadhe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khushbu_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khushbu_01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/khushbudadhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khushbudadhe" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/khushbu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codingninjas.svg" alt="https://www.codingninjas.com/studio/profile/khushbu01" height="30" width="40" /></a></p>
+<a href="https://www.codingninjas.com/studio/profile/khushbu01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/coding-ninjas.svg" alt="khushbu01" height="30" width="40" /></a></p>
 
 <br>
 
