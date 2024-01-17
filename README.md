@@ -71,7 +71,7 @@
 </p>
 
 <p><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbu4066&" alt="khushbu4066" /></p>
-<p><img align="Right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushbu4066&theme=default&utcOffset=8" /></p>
+<p><img align="Right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ashfiya786&theme=radical&utcOffset=8" /></p>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
