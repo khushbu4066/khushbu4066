@@ -10,9 +10,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 
-<br>
+<p>&nbsp;</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushbu4066&label=Profile%20views&color=0e75b6&style=flat" alt="khushbu4066" /> </p>
+
+<div align="left">
+  <samp>
+<p>&nbsp;</p>
 
 
 - 🌱 I’m currently learning **Linux, NodeJS, Databases.**
@@ -22,6 +26,8 @@
 - 💬 Ask me about **Java, Data Structure, Html, CSS, JS, ReactJS, NodeJS, Linux**
 
 - 📫 How to reach me **khushbudadhe01@gmail.com**
+
+- ⚡ Fun fact: **It’s all 0’s and 1’s**
 
 <br>
 
