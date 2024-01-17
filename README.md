@@ -78,10 +78,10 @@
 </p>
 
 <p style="flex: 1;">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbu4066&" alt="khushbu4066" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushbu4066&theme=default&utcOffset=8" width="300" height="150" />
   </p>
   <p style="flex: 1;">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khushbu4066&theme=default&utcOffset=8" width="300" height="150" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbu4066&" alt="khushbu4066" />
   </p>
 
 <br>
