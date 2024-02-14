@@ -9,12 +9,8 @@
   
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-
 <p>&nbsp;</p>
 
-<div align="left">
-  <samp>
-<p>&nbsp;</p>
 <h3 align="left">About Me:</h3>
 
 - 🌱 I’m currently learning **Linux, NodeJS, Databases.**
