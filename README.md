@@ -14,7 +14,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🌱 I’m currently learning **Linux, NodeJS, Databases.**
+- 🌱 I’m currently learning **Backend databases**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
   
